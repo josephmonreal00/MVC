@@ -1,29 +1,33 @@
 ﻿<Properties StartupConfiguration="{E2CE7074-67DA-4253-A35B-0BBA2471F45B}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Views/HelloWorld/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Models/Movie.cs">
     <Files>
       <File FileName="MVC/Views/Home/Index.cshtml" Line="12" Column="1" />
       <File FileName="MVC/Controllers/HomeController.cs" Line="21" Column="32" />
       <File FileName="MVC/Views/Home/RandomView.cshtml" Line="10" Column="1" />
-      <File FileName="MVC/Views/Shared/_Layout.cshtml" Line="32" Column="23" />
+      <File FileName="MVC/Views/Shared/_Layout.cshtml" Line="15" Column="109" />
       <File FileName="MVC/Controllers/HelloWorldController.cs" Line="38" Column="41" />
-      <File FileName="MVC/Program.cs" Line="19" Column="27" />
-      <File FileName="MVC/Views/HelloWorld/Index.cshtml" Line="7" Column="23" />
+      <File FileName="MVC/Program.cs" Line="30" Column="1" />
+      <File FileName="MVC/Views/HelloWorld/Index.cshtml" Line="7" Column="15" />
       <File FileName="MVC/Views/HelloWorld/Welcome.cshtml" Line="12" Column="6" />
       <File FileName="MVC/appsettings.json" Line="1" Column="1" />
       <File FileName="MVC/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="MVC/Models/Movie.cs" Line="17" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVCSolution" expanded="True">
             <Node name="MVC" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="HelloWorld" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="MonoDevelop.Addins" selected="True" />
                 </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />

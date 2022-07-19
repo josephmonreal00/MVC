@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{E2CE7074-67DA-4253-A35B-0BBA2471F45B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Program.cs">
+    <Files>
+      <File FileName="MVC/Views/Home/Index.cshtml" Line="12" Column="1" />
+      <File FileName="MVC/Controllers/HomeController.cs" Line="21" Column="32" />
+      <File FileName="MVC/Views/Home/RandomView.cshtml" Line="10" Column="1" />
+      <File FileName="MVC/Views/Shared/_Layout.cshtml" Line="15" Column="109" />
+      <File FileName="MVC/Controllers/HelloWorldController.cs" Line="3" Column="1" />
+      <File FileName="MVC/Program.cs" Line="42" Column="34" />
+      <File FileName="MVC/Views/HelloWorld/Index.cshtml" Line="7" Column="15" />
+      <File FileName="MVC/Views/HelloWorld/Welcome.cshtml" Line="12" Column="6" />
+      <File FileName="MVC/appsettings.json" Line="11" Column="44" />
+      <File FileName="MVC/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="MVC/Models/Movie.cs" Line="16" Column="2" />
+      <File FileName="MVC/Data/MvcMovieContext.cs" Line="16" Column="1" />
+      <File FileName="MVC/Startup.cs" Line="3" Column="16" />
+      <File FileName="MVC/Controllers/MoviesController.cs" Line="9" Column="16" />
+      <File FileName="MVC/appsettings.Development.json" Line="10" Column="44" />
+      <File FileName="MVC/Views/Movies/Details.cshtml" Line="1" Column="1" />
+      <File FileName="../../../../.nuget/packages/mysql.data.entityframework/8.0.29/contentFiles/any/netstandard2.1/web.config.transform" Line="1" Column="1" />
+      <File FileName="MVC/Models/SeedData.cs" Line="7" Column="21" />
+      <File FileName="MVC/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="MVC/MvcMovie.db" Line="1" Column="1" />
+      <File FileName="MVC/Migrations/20220718185642_InitialCreate.cs" Line="10" Column="6" />
+      <File FileName="MVC/Migrations/MvcMovieContextModelSnapshot.cs" Line="7" Column="18" />
+      <File FileName="MVC/Migrations/20220718185642_InitialCreate.Designer.cs" Line="7" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCSolution" expanded="True">
+            <Node name="MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220718185642_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

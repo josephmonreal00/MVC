@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MVC.Models;
+using MVC.Data;
 
 public class Startup
 {
